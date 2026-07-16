@@ -3372,6 +3372,7 @@ markers:
   - {type: indent, offset: 9166, content: 　, id: KR1e0079_krp_007-bkkind447}
   - {type: substitution, offset: 9172, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 9173, content: (, id: KR1e0079_krp_007-bkkpn1}
+  - {type: voice, offset: 9173, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 9178, content: /, id: KR1e0079_krp_007-bkkpn2}
   - {type: substitution, offset: 9179, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: substitution, offset: 9181, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -3383,6 +3384,7 @@ markers:
   - {type: indent, offset: 9190, content: 　, id: KR1e0079_krp_007-bkkind448}
   - {type: substitution, offset: 9194, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 9195, content: (, id: KR1e0079_krp_007-bkkpn4}
+  - {type: voice, offset: 9195, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 9200, content: /, id: KR1e0079_krp_007-bkkpn5}
   - {type: substitution, offset: 9203, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 9204, content: ), id: KR1e0079_krp_007-bkkpn6}
@@ -4434,4 +4436,4 @@ markers:
 
       ', id: KR1e0079_krp_007-bkkkrnewl827}
   back: []
-hash: sha256:b5ef78d4b503783b298dbd91cf0b0d09e078222ec730f9bbcb9589609bc6a2f2
+hash: sha256:885de900c46695fa95a17c753b636ac254b0b5da39d09d0abd4bc4e7e3487b13
